@@ -1,0 +1,308 @@
+[
+    {
+        "id": 1,
+        "areas":"Administrativa 1",
+        "name": "Rectorado de la UNLaR",
+        "address": {
+            "latitud": -29.429579629036752,
+            "length": -66.86838071824991,
+            "map": "https://maps.app.goo.gl/MdGUgMYzTNUuVCMx7"
+        },
+        "description": "Se encuentra en el edificio principal a donde se encuentran las principales autoridades de la institucion",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMqVTZ_BNaO3NMQeKal4Rfa7CJaPvASoTXB5Bk6=s680-w680-h510",
+        "contact":{
+            "contact.phone":"Despacho:0380-4457003 y Vicerrectorado:0380-4457075",
+            "contact.mail": "comunicacioninstitucional@unlar.edu.ar",
+            "contact.red_social":"https://www.facebook.com/unlaroficial/",
+            "contact.page":"https://www.unlar.edu.ar/"
+        }
+    },
+    {
+        "id": 2,
+        "areas":"Administrativa 1",
+        "name": "Mesa de entrada",
+        "address": { 
+            "latitud": -29.429670736795103,
+            "length": -66.86839614095072,
+            "map": "https://maps.app.goo.gl/VEaN3anPHFFwzvjb7"
+        },
+        "description": "Se encuentra en el edificio principal a donde generalmente se encarga de recibir y gestionar la documentación, trámites y solicitudes que ingresan a la institución",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Despacho:0380-4457003 y Vicerrectorado:0380-4457075",
+            "contact.mail": "Sin referencia",
+            "contact.red_social":"Sin referencia",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 3,
+        "areas":"Administrativa 1",
+        "name": "Secretaría Asuntos Académicos",   
+        "address": {
+            "latitud":-29.429584301231476,
+            "length": -66.8683673072057,
+            "map": "https://maps.app.goo.gl/wdkjnNMCwmZXdJkX6"
+        },
+        "description": "Se encuentra en el edificio principal. Es un sector crucial que se encarga de coordinar y gestionar diversos aspectos relacionados con la actividad académica de la institución",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración 0380-445-704 y Despacho 7364",
+            "contact.mail": "Sin referencia",
+            "contact.red_social": "saa.unlar",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 4,
+        "areas":"Administrativa 1",
+        "name": "Secretaría Nodocente",
+        "address": {
+            "latitud":-29.429708997348076,
+            "length": -66.86849738775267,
+            "map": "https://maps.app.goo.gl/VJHRG3SwwLanchuNA"
+        },
+        "description": "La SAND se encuentra en el edificio principal,en planta baja del hall del Rectorado. Se encarga de gestionar y coordinar diversas tareas administrativas que no están directamente relacionadas con la actividad académica o la docencia, sino más bien con aspectos administrativos y de gestión interna de la universidad",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración 0380-4457183 y Despacho 7088",
+            "contact.mail":" secnodocente@unlar.edu.ar",
+            "contact.red_social":"Sin referencia",
+            "contact.page":"https://nodocentes.unlar.edu.ar/"
+
+        }
+    },
+    {
+        "id": 5,
+        "areas":"Administrativa 1",
+        "name": "FUNLaR",
+        "address": {
+            "latitud":-29.4297580553194,
+            "length": -66.86846050737077,
+            "map": "https://maps.app.goo.gl/C4oAS7iwkjmF3WsE7"
+        },
+        "description": "La FUNLaR se encuentra en el edificio principal en la planta alta, es una entidad complementaria a la Universidad Nacional de La Rioja (UNLaR) que tiene como objetivo principal apoyar y potenciar las actividades de la universidad en diversos ámbitos.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración 0380 445-7058",
+            "contact.mail":"funlarcomunicacion@gmail.com",
+            "contact.red_social":"https://www.facebook.com/funlaroficial/",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 6,
+        "areas":"Administrativa 1",
+        "name": "Secretaria Legal y Técnica",
+        "address": {
+            "latitud":-29.429573503780084,
+            "length": -66.86867575463023,
+            "map": "https://maps.app.goo.gl/pJaWDy1piatAdG3k6"
+        },
+        "description": "La SLyT se encuentra en el edificio principal ,está ubicada en la planta alta ,se encarga de gestionar aspectos relacionados con la asesoría jurídica, el cumplimiento normativo y la gestión de documentos legales dentro de la institución.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración (0380) 4457074/4457076",
+            "contact.mail":"legalytecnicaunlar@gmail.com",
+            "contact.red_social": "Sin referencia",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 7,
+        "areas":"Administrativa 1",
+        "name": "Secretaria de planificación y Autoevaluación",
+        "address": {
+            "latitud":-29.429772402172414,
+            "length": -66.86857635426833,
+            "map": "https://maps.app.goo.gl/fkPSUEYzrM1rTjVY6"
+        },
+        "description": "La SPyA se encuentra en el edificio principal, está ubicada en la planta alta del predio universitario. Su misión es asistir y asesorar al rector y a las demás áreas administrativas y académicas de la Universidad Nacional de La Rioja en la elaboración y aplicación de políticas, estrategias, diseños y formalidades referentes a la planificación y a la autoevaluación institucional, además de articular la evaluación externa con la Comisión Nacional de Evaluación y Acreditación Universitaria (CONEAU) o el organismo del Ministerio de Educación de la Nación que cumpla función análoga, así como con otros órganos, instituciones o agencias previstas por la legislación aplicable.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración (0380) 4457049 y el interno: 7386",
+            "contact.mail":" spa@unlar.edu.ar",
+            "contact.red_social": "Sin referencia",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 8,
+        "areas":"Administrativa 2",
+        "name": "Secretaria de Asuntos Estudiantiles",
+        "address": { 
+            "latitud":-29.429716623926346,
+            "length":-66.86882898679082,
+            "map": "https://maps.app.goo.gl/jRsda5hhZWL4sxYd8"
+        },
+        "description": "El SAE se encuentra en el edificio Secundario, está ubicada en la planta alta del primer módulo, del predio universitario.Su misión es la de asistir en la problemática del bienestar estudiantil y la acción social a favor de los y las estudiantes que integran esta comunidad universitaria; hacia quienes dirige sus acciones en forma de servicios, que son ofrecidos a través de becas; viviendas; actividades físicas, deportivas y recreativas; y todas aquellas situaciones que por su naturaleza, sean de su competencia. El equipo de la SAE acompaña y asesora a los ingresantes en el proceso de inscripción y a los estudiantes en la vida universitaria. Ofrece información sobre trámites, realización de estudios psicofísicos y algunos beneficios como Licencia Estudiantil, Seguro Estudiantil y Becas de Experiencia Laboral.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"(0380) 4457059",
+            "contact.mail":"sae.unlar@gmail.com",
+            "contact.red_social": "https://www.facebook.com/saeunlar/?locale=es_LA",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 9,
+        "areas":"Administrativa 2",
+        "name": "Secretaria Administrativa Financiera ",
+        "address": { 
+            "latitud":-29.429528568163924,
+            "length":-66.86883301010404,
+            "map": "https://maps.app.goo.gl/nVyycLi3Aat6d5bq8"
+        },
+        "description": "La SAF se encuentra en el edificio Secundario, está ubicada en la planta baja del primer modulo del predio universitario. La Secretaría Administrativa Financiera depende directamente del rectorado y de ella dependen la Secretaría de Gestión Administrativa Financiera y las Subsecretarías de Recursos Económicos y de Recursos Humanos. Su misión es la de asesorar y asistir al Rector en la elaboración y aplicación de la política en su Área de competencia atendiendo la Gestión Económica Financiera, el Patrimonio y el Personal universitario.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración (0380) 4457000 y el interno: 7067/ 7326/7335/7231.",
+            "contact.mail":"Sin referencia",
+            "contact.red_social": "Sin referencia",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 10,
+        "areas":"Administrativa 3",
+        "name": "Aula Make Dra. Edith Litwin",
+        "address":  {
+            "latitud":-29.42956360963589,
+            "length":-66.86953977216402,
+            "map": "https://maps.app.goo.gl/iDvH3Xj5XpdR6NCx6"
+        },
+        "description": "La Sala se encuentra en el edificio terciario. El espacio esta equipado con tecnología avanzada facilitará el acceso a los y las estudiantes a las tecnologías educativas. ",
+        "attention_hours":"Sin referencia",
+        "image": "",
+        "contact":{
+            "contact.phone":"Sin referencia",
+            "contact.mail":" Sin referencia",
+            "contact.red_social": "Sin referencia",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 11,
+        "areas":"Administrativa 3 ",
+        "name": "Centro Universitario de Copiado, Impresión y Diseño",
+        "address": { 
+            "latitud":-29.429503455097752,
+            "length":-66.8696356611462,
+            "map": "https://maps.app.goo.gl/oUcR6XL4XqvKw3jT6"
+        },
+        "description": "El centro se encuentra en el edificio terciario. Está ubicada en la planta alta del segundo módulo del predio universitario.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración 0380 445-7059",
+            "contact.mail":"fotocopiadorafunlar@gmail.com",
+            "contact.red_social": "Sin referencia",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 12,
+        "areas":"Departamento de Sociales y Departamento de Salud",
+        "name": "Dpto. Académico de Ciencias Sociales, Jurídicas y Económicas",
+        "address": { 
+            "latitud":-29.429464325428928,
+            "length":-66.86991326977616,
+            "map": "https://maps.app.goo.gl/oJGqdKWwqDePPV9D8"
+        },
+        "description": "El centro se encuentra en el edificio cuaternario. Está ubicada en la planta alta del tercer módulo del predio universitario.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración 0380 445-7037",
+            "contact.mail":"saesocjurideco@gmail.com",
+            "contact.red_social": "https://www.facebook.com/SAESociales/",
+            "contact.page":"Sin referencia"
+        
+        }
+    },
+    {
+        "id": 13,
+        "areas":"Departamento de Sociales y Departamento de Salud",
+        "name": "Depto. Académico de Ciencias de la Salud",
+        "address": { 
+            "latitud":-29.429431035995435,
+            "length":-66.87014859171545,
+            "map": "https://maps.app.goo.gl/zSgNUbey9px8TTKj7"
+        },
+        "description": "El centro se encuentra en el edificio cuaternario. Está ubicada en la planta alta del tercer módulo del predio universitario.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración 3804 457013",
+            "contact.mail":"sec.academica.salud@unlar.edu.ar",
+            "contact.red_social": "Sin referencia",
+            "contact.page":"Sin referencia"
+        }
+    },
+    {
+        "id": 14,
+        "areas":"Departamento de Exactas y Departamento de Aplicadas",
+        "name": "DACEFyN", 
+        "address": {
+            "latitud":-29.429507543269043,
+            "length":-66.87051605434333,
+            "map":"https://maps.app.goo.gl/xrp7Gvia1jNJ2v8z8"
+        },
+        "description": "El departamento DACEFyN se encuentra en el edificio quinario. Está ubicada en la planta alta del cuarto módulo del predio universitario.Los departamentos están constituidos por el conjunto de disciplinas afines que el Consejo Superior haya situado conforme sus atribuciones y prestan servicios académicos a las distintas carreras de la universidad.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración 3804 620657 o 0380 445-7000",
+            "contact.mail":"dacefyn@unlar.edu.ar o sec.academica.dacefyn@unlar.edu.ar",
+            "contact.red_social": "https://www.facebook.com/dacefyn/?locale=es_LA",
+            "contact.page":"https://dacefyn.unlar.edu.ar/"
+        }
+    },
+    {
+        "id": 15,
+        "areas":"Departamento de Exactas y Departamento de Aplicadas ",
+        "name": "Dpto Aplicadas UNLaR",
+        "address": { 
+            "latitud":-29.42937496956007,
+            "length":-66.87063407153232,
+            "map":"https://maps.app.goo.gl/9CWNgSiKyoEqX45P8"
+        },
+        "description": "El departamento se encuentra en el edificio quinario. Está ubicada en la planta alta del cuarto módulo del predio universitario.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración 3804 12650",
+            "contact.mail":"decanato.aplicadas@unlar.edu.ar o academicoaplicadas@unlar.edu.ar",
+            "contact.red_social": "https://www.facebook.com/dptoaplicadas/?locale=es_LA",
+            "contact.page":"https://acortar.link/GKrajk"
+        }
+    },
+    {
+        "id": 16,
+        "areas":"Departamento Académico de Ciencias Humanas y de la Educación ",
+        "name": "Dpto Ciencias Humanas UNLaR",
+        "address": { 
+            "latitud":-29.429371282896568,
+            "length":-66.87129678671513,
+            "map":"https://maps.app.goo.gl/QQ1ocxSwtQz2NPSe6"
+        },
+        "description": "El departamento se encuentra en el edificio senario. Está ubicada en la planta alta del quinto módulo del predio universitario.",
+        "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
+        "image": "",
+        "contact":{
+            "contact.phone":"Administración 3804 271772",
+            "contact.mail":"cienciashumanasunlar@gmail.com o saehumanas@gmail.com",
+            "contact.red_social": "https://www.instagram.com/sae_humanas/",
+            "contact.page":"Sin referencia"
+        }
+    }
+]
