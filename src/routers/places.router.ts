@@ -1,15 +1,16 @@
 import { Router } from "express";
 import { getplacescontroller } from "../controller/getplaces.controller";
-import { getplacesbynamecontroller } from "../controller/getplacesbyname.controller";
+import { getplacesbyidcontroller } from "../controller/getplacesbyid.controller";
 import { createplacescontroller } from "../controller/createplaces.controller";
+import { validatePlacesBody } from "../middlewares/validationmiddleware";
 
 const router = Router();
   
   router.get("/", getplacescontroller)
   
-  router.get("/:name", getplacesbynamecontroller);
+  router.get("/:name", getplacesbyidcontroller);
   
-  router.post("/", createplacescontroller );
+  router.post("/", validatePlacesBody, createplacescontroller );
   
   export {
         router

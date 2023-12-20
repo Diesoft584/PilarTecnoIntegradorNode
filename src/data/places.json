@@ -12,10 +12,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "https://lh3.googleusercontent.com/p/AF1QipMqVTZ_BNaO3NMQeKal4Rfa7CJaPvASoTXB5Bk6=s680-w680-h510",
         "contact":{
-            "contact.phone":"Despacho:0380-4457003 y Vicerrectorado:0380-4457075",
-            "contact.mail": "comunicacioninstitucional@unlar.edu.ar",
-            "contact.red_social":"https://www.facebook.com/unlaroficial/",
-            "contact.page":"https://www.unlar.edu.ar/"
+            "contact_phone":"Despacho:0380-4457003 y Vicerrectorado:0380-4457075",
+            "contact_mail": "comunicacioninstitucional@unlar.edu.ar",
+            "contact_red_social":"https://www.facebook.com/unlaroficial/",
+            "contact_page":"https://www.unlar.edu.ar/"
         }
     },
     {
@@ -31,10 +31,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Despacho:0380-4457003 y Vicerrectorado:0380-4457075",
-            "contact.mail": "Sin referencia",
-            "contact.red_social":"Sin referencia",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Despacho:0380-4457003 y Vicerrectorado:0380-4457075",
+            "contact_mail": "Sin referencia",
+            "contact_red_social":"Sin referencia",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -50,10 +50,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración 0380-445-704 y Despacho 7364",
-            "contact.mail": "Sin referencia",
-            "contact.red_social": "saa.unlar",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Administración 0380-445-704 y Despacho 7364",
+            "contact_.mail": "Sin referencia",
+            "contact_red_social": "saa.unlar",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -69,10 +69,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración 0380-4457183 y Despacho 7088",
-            "contact.mail":" secnodocente@unlar.edu.ar",
-            "contact.red_social":"Sin referencia",
-            "contact.page":"https://nodocentes.unlar.edu.ar/"
+            "contact_phone":"Administración 0380-4457183 y Despacho 7088",
+            "contact_mail":" secnodocente@unlar.edu.ar",
+            "contact_red_social":"Sin referencia",
+            "contact_.page":"https://nodocentes.unlar.edu.ar/"
 
         }
     },
@@ -89,10 +89,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración 0380 445-7058",
-            "contact.mail":"funlarcomunicacion@gmail.com",
-            "contact.red_social":"https://www.facebook.com/funlaroficial/",
-            "contact.page":"Sin referencia"
+            "contact_.phone":"Administración 0380 445-7058",
+            "contact_mail":"funlarcomunicacion@gmail.com",
+            "contact_red_social":"https://www.facebook.com/funlaroficial/",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -108,10 +108,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración (0380) 4457074/4457076",
-            "contact.mail":"legalytecnicaunlar@gmail.com",
-            "contact.red_social": "Sin referencia",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Administración (0380) 4457074/4457076",
+            "contact_mail":"legalytecnicaunlar@gmail.com",
+            "contact_red_social": "Sin referencia",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -127,10 +127,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración (0380) 4457049 y el interno: 7386",
-            "contact.mail":" spa@unlar.edu.ar",
-            "contact.red_social": "Sin referencia",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Administración (0380) 4457049 y el interno: 7386",
+            "contact_mail":" spa@unlar.edu.ar",
+            "contact_red_social": "Sin referencia",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -146,10 +146,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"(0380) 4457059",
-            "contact.mail":"sae.unlar@gmail.com",
-            "contact.red_social": "https://www.facebook.com/saeunlar/?locale=es_LA",
-            "contact.page":"Sin referencia"
+            "contact_phone":"(0380) 4457059",
+            "contact_mail":"sae.unlar@gmail.com",
+            "contact_red_social": "https://www.facebook.com/saeunlar/?locale=es_LA",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -165,10 +165,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración (0380) 4457000 y el interno: 7067/ 7326/7335/7231.",
-            "contact.mail":"Sin referencia",
-            "contact.red_social": "Sin referencia",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Administración (0380) 4457000 y el interno: 7067/ 7326/7335/7231.",
+            "contact_mail":"Sin referencia",
+            "contact_red_social": "Sin referencia",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -184,10 +184,10 @@
         "attention_hours":"Sin referencia",
         "image": "",
         "contact":{
-            "contact.phone":"Sin referencia",
-            "contact.mail":" Sin referencia",
-            "contact.red_social": "Sin referencia",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Sin referencia",
+            "contact_mail":" Sin referencia",
+            "contact_red_social": "Sin referencia",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -203,10 +203,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración 0380 445-7059",
-            "contact.mail":"fotocopiadorafunlar@gmail.com",
-            "contact.red_social": "Sin referencia",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Administración 0380 445-7059",
+            "contact_mail":"fotocopiadorafunlar@gmail.com",
+            "contact_red_social": "Sin referencia",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -222,10 +222,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración 0380 445-7037",
-            "contact.mail":"saesocjurideco@gmail.com",
-            "contact.red_social": "https://www.facebook.com/SAESociales/",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Administración 0380 445-7037",
+            "contact_mail":"saesocjurideco@gmail.com",
+            "contact_red_social": "https://www.facebook.com/SAESociales/",
+            "contact_page":"Sin referencia"
         
         }
     },
@@ -242,10 +242,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración 3804 457013",
-            "contact.mail":"sec.academica.salud@unlar.edu.ar",
-            "contact.red_social": "Sin referencia",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Administración 3804 457013",
+            "contact_mail":"sec.academica.salud@unlar.edu.ar",
+            "contact_red_social": "Sin referencia",
+            "contact_page":"Sin referencia"
         }
     },
     {
@@ -261,10 +261,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración 3804 620657 o 0380 445-7000",
-            "contact.mail":"dacefyn@unlar.edu.ar o sec.academica.dacefyn@unlar.edu.ar",
-            "contact.red_social": "https://www.facebook.com/dacefyn/?locale=es_LA",
-            "contact.page":"https://dacefyn.unlar.edu.ar/"
+            "contact_phone":"Administración 3804 620657 o 0380 445-7000",
+            "contact_mail":"dacefyn@unlar.edu.ar o sec.academica.dacefyn@unlar.edu.ar",
+            "contact_red_social": "https://www.facebook.com/dacefyn/?locale=es_LA",
+            "contact_page":"https://dacefyn.unlar.edu.ar/"
         }
     },
     {
@@ -280,10 +280,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración 3804 12650",
-            "contact.mail":"decanato.aplicadas@unlar.edu.ar o academicoaplicadas@unlar.edu.ar",
-            "contact.red_social": "https://www.facebook.com/dptoaplicadas/?locale=es_LA",
-            "contact.page":"https://acortar.link/GKrajk"
+            "contact_.phone":"Administración 3804 12650",
+            "contact_mail":"decanato.aplicadas@unlar.edu.ar o academicoaplicadas@unlar.edu.ar",
+            "contact_red_social": "https://www.facebook.com/dptoaplicadas/?locale=es_LA",
+            "contact_page":"https://acortar.link/GKrajk"
         }
     },
     {
@@ -299,10 +299,10 @@
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
         "image": "",
         "contact":{
-            "contact.phone":"Administración 3804 271772",
-            "contact.mail":"cienciashumanasunlar@gmail.com o saehumanas@gmail.com",
-            "contact.red_social": "https://www.instagram.com/sae_humanas/",
-            "contact.page":"Sin referencia"
+            "contact_phone":"Administración 3804 271772",
+            "contact_mail":"cienciashumanasunlar@gmail.com o saehumanas@gmail.com",
+            "contact_red_social": "https://www.instagram.com/sae_humanas/",
+            "contact_page":"Sin referencia"
         }
     }
 ]
