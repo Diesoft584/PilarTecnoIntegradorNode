@@ -1,14 +1,17 @@
-import { Request, Response} from "express";
-import placesData from "../data/places.json"
+import { NextFunction, Request, Response} from "express";
+import { getplacesbyid } from "../services/places.service";
 
-export async function getplacesbyidcontroller(req:Request, res:Response) {
-    const id = parseInt(req.params.name);
-    const place = placesData.find((place) => place.id === id);
-    if (!place) {
-      return res.status(404).json({
-        error: "PLACE_NOT_FOUND",
-        message: `Place '${id}' not found in the database`,
-      });
+export async function getplacesbyidcontroller(req:Request, res: Response, next: NextFunction) {
+  try {
+    const id = req.params.id
+    const places = await getplacesbyid(id)
+    if(!places){
+      res.status(404).json({
+        info:`Places with ID ${id} not found`
+      })
     }
-    return res.status(200).json(place);
-  };
+    res.json(places);
+  } catch (error) {
+    next(error)
+}
+  }

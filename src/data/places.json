@@ -29,7 +29,7 @@
         },
         "description": "Se encuentra en el edificio principal a donde generalmente se encarga de recibir y gestionar la documentación, trámites y solicitudes que ingresan a la institución",
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
-        "image": "",
+        "image": "https://www.unlar.edu.ar/index.php/unlar/mapas",
         "contact":{
             "contact_phone":"Despacho:0380-4457003 y Vicerrectorado:0380-4457075",
             "contact_mail": "Sin referencia",
@@ -48,10 +48,10 @@
         },
         "description": "Se encuentra en el edificio principal. Es un sector crucial que se encarga de coordinar y gestionar diversos aspectos relacionados con la actividad académica de la institución",
         "attention_hours":"Lunes a Viernes:9:00 a 13:00 hs. Y de 16:00 a 20:00 hs.",
-        "image": "",
+        "image": "https://www.unlar.edu.ar/index.php/unlar/mapas",
         "contact":{
             "contact_phone":"Administración 0380-445-704 y Despacho 7364",
-            "contact_.mail": "Sin referencia",
+            "contact_mail": "redes.academica@unlar.edu.ar",
             "contact_red_social": "saa.unlar",
             "contact_page":"Sin referencia"
         }
