@@ -9,7 +9,6 @@ import { Places } from "../models/places.model"
         return places.toJSON()
     })
  }
-
  export async function getplacesbyid(id: string){
     const places = await Places.findById(id)
     return places?.toJSON()
